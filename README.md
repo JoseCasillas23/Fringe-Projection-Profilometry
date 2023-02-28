@@ -1,2 +1,5 @@
 # Fringe-Projection-Profilometry
-Matlab Software that contains a way to retrieve the height maps of any object. 
+Este proyecto consiste de dos archivos de tipo Matlab, es necesario ejecutar elcodigo de captura_de_referencias previamente para asegurar que funcione de forma adecuada.
+
+#Captura_de_referencias
+
